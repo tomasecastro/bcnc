@@ -1,0 +1,2 @@
+# bcnc
+Practica de BCNC
