@@ -1,0 +1,10 @@
+behave
+behave2cucumber
+cucumber-tag-expressions
+behave-html-formatter
+pylint
+allure-behave
+selenium
+webdriver-manager
+requests
+requests-oauthlib
